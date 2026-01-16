@@ -21,7 +21,7 @@ This Power BI project analyzes insurance policies, premium collections, and clai
 - Identified top policy buyers
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashborad.png)
 
 - Compared premium vs claims
 - Analyzed yearly trends (2014–2018)
